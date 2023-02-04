@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(242, 243, 243);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+}
+#title {
+    text-align: center;
+    font-size: 35px;
+}
+
+.par1 {
+    font-size: 20px;
+
+}
+
+#title2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+#map {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+#list {
+    font-size: 25px;
+}
+
+li {
+    margin: 17px;
+}
+
+.empty {
+    height: 110px;
+}
